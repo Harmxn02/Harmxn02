@@ -4,18 +4,16 @@
 
 ![Profile views](https://gpvc.arturio.dev/Harmxn02) 
 
-On this personal GitHub profile you can find some projects I've worked on, and just other random projects tbh.
+On this personal GitHub profile you can find some projects I've worked on, and just other random projects.
 
 &nbsp;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harmxn02)](https://github.com/anuraghazra/github-readme-stats)
 
-&nbsp;
 
 ## Find me around the web 🌎:
 
 
-[Portfolio Website](https://harmxn02.github.io)
+[Portfolio Website](https://harmanpsingh.netlify.app/)
 
 [DEV Community](https://dev.to/harmxn)
 
@@ -28,9 +26,12 @@ And my [resume](https://resume.io/r/SU1DQos8n), in case you really wanna get to 
 
 &nbsp;
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harmxn02)](https://github.com/anuraghazra/github-readme-stats)
 
-## Statistics 📝:
-![GitHub metrics](https://metrics.lecoq.io/Harmxn02)  
+&nbsp;
+
+<!-- ## Statistics 📝:
+![GitHub metrics](https://metrics.lecoq.io/Harmxn02)   -->
 
 
 <!-- 
