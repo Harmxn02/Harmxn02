@@ -36,7 +36,7 @@ On this personal GitHub profile you can find some projects I've worked on, and j
 
 [DEV Community Blog](https://dev.to/harmxn)
 
-And my [resume](https://resume.io/r/SU1DQos8n), in case you really wanna get to stalk me  : )
+<!-- And my [resume](https://resume.io/r/SU1DQos8n), in case you really wanna get to stalk me  : ) -->
 
 &nbsp;
 
