@@ -1,6 +1,8 @@
-# Hi there 👋, I'm Harman Singh 🙋‍♂️
+## Hi there 👋, I'm Harman Singh 🍕
 
-## I am a second-year Computer Science-student majoring in Artificial Intelligence / Data Science 💻
+**`Full Stack Developer + data :)`**
+
+### I am a second-year Computer Science-student majoring in Artificial Intelligence / Data Science 💻
 
 ![I am a second-year Computer Science-student majoring in Artificial Intelligence / Data Science](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 
