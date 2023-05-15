@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Harman Singh 🍕
 
-**`Full Stack Developer + Artificial Intelligence :)`**
+**`Software Developer + Artificial Intelligence :)`**
 
 ### I am a second-year Computer Science-student major, specializing in Artificial Intelligence
 
@@ -10,8 +10,9 @@ On this personal GitHub profile you can find some projects I've worked on, and j
 
 ### About me
 
-*As a Computer Science major specializing in AI, I aim to use my education and passion for technology to make a positive impact on the world. I am excited to see where my career in the field of Computer Science and AI will take me.
-Discovered my passion for programming through Harvard's CS50. I have been continuously learning and growing my skills ever since.*
+*As a Computer Science major specializing in AI, I am interested in exploring the possibilities of Artificial Intelligence and Machine Learning.*
+
+*I am currently taking online courses to expand my knowledge in Finance and Mathematics. My goal is to acquire the necessary skills and expertise in these areas to excel in the field of Quantitative Analysis.*
 
 <!-- ![HelloWorld](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 
@@ -21,7 +22,7 @@ Discovered my passion for programming through Harvard's CS50. I have been contin
 
 ### Find me around the web 🌎
 
-[Portfolio Website](https://harmanpsingh.netlify.app/)  
+[Portfolio Website](https://harmanpsingh.vercel.app/)  
 [LinkedIn](https://www.linkedin.com/in/harmanpnahal/)  
 [Email](mailto:harman.pnahal@gmail.com)  
 
