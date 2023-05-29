@@ -2,7 +2,7 @@
 
 **`Software Developer + Artificial Intelligence :)`**
 
-### I am a second-year Computer Science-student major, specializing in Artificial Intelligence
+### I am a second-year Computer Science major, specializing in Artificial Intelligence
 
 On this personal GitHub profile you can find some projects I've worked on, and just other random projects.
 
