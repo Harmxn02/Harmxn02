@@ -1,6 +1,8 @@
+# Harmxn02
+
 ## Hi there 👋, I'm Harman Singh 🍕
 
-**`Software Developer + Artificial Intelligence :)`**
+**`Software Engineer + Artificial Intelligence :)`**
 
 ### I am a second-year Computer Science major, specializing in Artificial Intelligence
 
