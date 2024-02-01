@@ -24,7 +24,7 @@ On this personal GitHub profile you can find some projects I've worked on, and j
 
 ### Find me around the web 🌎
 
-[Portfolio Website](https://harmanpsingh.vercel.app/)  
+[Portfolio Website](https://www.harmansingh.nl/)
 [LinkedIn](https://www.linkedin.com/in/harmanpnahal/)  
 [Email](mailto:harman.pnahal@gmail.com)  
 
