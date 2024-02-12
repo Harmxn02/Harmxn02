@@ -12,9 +12,9 @@ On this personal GitHub profile you can find some projects I've worked on, and j
 
 ### About me
 
-*As a Computer Science major specializing in AI, I am interested in exploring the possibilities of Artificial Intelligence and Machine Learning.*
+*Hey there! I'm Harman. I'm currently working towards a bachelor's in applied computer science, with a focus on Artificial Intelligence at HOWEST University of Applied Sciences.*
 
-*I am currently taking online courses to expand my knowledge in Finance and Mathematics. My goal is to acquire the necessary skills and expertise in these areas to excel in the field of Quantitative Analysis.*
+*I am currently taking online courses to better prepare for a career in Data Science.*
 
 <!-- ![HelloWorld](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 
