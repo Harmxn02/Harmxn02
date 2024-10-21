@@ -4,7 +4,7 @@
 
 **`Software Engineer + Artificial Intelligence :)`**
 
-### I am a last-year Applied Computer Science major, specializing in Artificial Intelligence
+### I am a last-year Applied Computer Science student, specializing in Artificial Intelligence
 
 On this personal GitHub profile you can find some projects I've worked on, and just other random projects.
 
@@ -14,7 +14,6 @@ On this personal GitHub profile you can find some projects I've worked on, and j
 
 *Hey there! I'm Harman. I'm currently working towards a bachelor's in applied computer science, with a focus on Artificial Intelligence at HOWEST University of Applied Sciences.*
 
-*I am currently taking online courses to better prepare for a career in Data Science.*
 
 <!-- ![HelloWorld](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 
