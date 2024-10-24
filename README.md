@@ -2,8 +2,6 @@
 
 Hey there! I'm Harman. I'm a Data Scientist / Software Engineer from Belgium 🇧🇪. I'm currently working towards a bachelor's in applied computer science, with a focus on Artificial Intelligence at Howest University of Applied Sciences.
 
-![derp](./derp.jpg)
-
 &nbsp;
 
 ## Find me around the web 🌎
