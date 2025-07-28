@@ -1,6 +1,6 @@
 # Hi, I'm Harman 👋💻
 
-Hey there! I'm Harman. I'm a Data Scientist / Software Engineer from Belgium 🇧🇪. I'm currently working towards a bachelor's in applied computer science, with a focus on Artificial Intelligence at Howest University of Applied Sciences.
+Hey there! I'm Harman. I'm a Data Scientist / Software Engineer from Belgium 🇧🇪. I'm currently working towards a MSc. in Artificial Intelligence at The Open University of The Netherlands.
 
 &nbsp;
 
