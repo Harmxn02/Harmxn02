@@ -1,6 +1,8 @@
 # Hi, I'm Harman 👋💻
 
-Hey there! I'm Harman. I'm a Data Scientist / Software Engineer from Belgium 🇧🇪. I'm currently working towards a MSc. in Artificial Intelligence at The Open University of The Netherlands.
+Hey there! I'm Harman. I'm a Data Scientist / Machine Learning Engineer from Belgium 🇧🇪.
+
+I'm currently working towards a MSc. in Artificial Intelligence @ [Open Universiteit](https://ou.nl/).
 
 &nbsp;
 
@@ -18,3 +20,4 @@ https://dev.to/github/10-standout-github-profile-readmes-h2o -->
 <!-- https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
 
 <!-- https://dev.to/github/10-standout-github-profile-readmes-h2o -->
+
