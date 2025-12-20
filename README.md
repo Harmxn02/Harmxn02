@@ -13,11 +13,3 @@ I'm currently working towards a MSc. in Artificial Intelligence @ [Open Universi
 [Email](mailto:harman.pnahal@gmail.com)
 
 &nbsp;
-
-<!--
-https://dev.to/github/10-standout-github-profile-readmes-h2o -->
-
-<!-- https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
-
-<!-- https://dev.to/github/10-standout-github-profile-readmes-h2o -->
-
