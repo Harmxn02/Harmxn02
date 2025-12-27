@@ -8,4 +8,4 @@ Currently working towards a Master of Science in Artificial Intelligence 🎓
 
 ## Contact
 
-[**LinkedIn**](https://www.linkedin.com/in/harmanpnahal/) &nbsp; &nbsp;| &nbsp; &nbsp; [**Email**](mailto:harman.pnahal@gmail.com) &nbsp; (harman.[]()pnahal[]()@gmail.com)
+[**LinkedIn**](https://www.linkedin.com/in/harmanpnahal/) &nbsp; &nbsp;| &nbsp; &nbsp; [**Email**](mailto:harman.pnahal@gmail.com) &nbsp; &nbsp; harman.[]()pnahal[]()@gmail.com
